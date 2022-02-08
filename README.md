@@ -1,7 +1,7 @@
 # HTML-1
 Browser:
 
-  Google chrome, Mozila firefox, Opera, Safari
+        Google chrome, Mozila firefox, Opera, Safari
 
 Editor:
 
