@@ -10,7 +10,8 @@ Editor:
 Itroducing of HTML: 
 
 ![Tux, the Linux mascot](https://avatars.githubusercontent.com/u/32290268?v=4)
-https://github.com/sarwar12
+**[My Github Links](https://github.com/sarwar12)**
+
 
 **G Sarwar**
 *Anik*
